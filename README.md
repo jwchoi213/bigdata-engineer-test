@@ -1,1 +1,3 @@
-# bigdata-engineer-test
+# 빅데이터분석기사 실기
+## 출제 범위 
+![](./range_pic.png)
